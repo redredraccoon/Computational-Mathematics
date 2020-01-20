@@ -1,0 +1,6 @@
+datah2A.txt  Matrix A for Problem 2 of H2, ISA5305/2013
+4
+11	-12	8	-4
+25	-25	16	-8
+7	-6	2	0
+-9	9	-8	6

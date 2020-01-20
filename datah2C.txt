@@ -1,0 +1,6 @@
+datah2C.txt  Matrix C for Problem 2 of H2, ISA5305/2013
+4
+3	-3	2	-1
+12	-12	10	-5
+15	-15	14	-7
+6	-6	6	-3

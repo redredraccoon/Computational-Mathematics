@@ -1,0 +1,7 @@
+datah2B.txt  Tridiagonal matrix B,  Problem 1 of H2, ISA5305/2013
+5
+4	-1	0	0	0
+-1	4	-1	0	0
+0	-1	4	-1	0
+0	0	-1	4	-1
+0	0	0	-1	4
